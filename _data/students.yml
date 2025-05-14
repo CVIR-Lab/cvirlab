@@ -8,51 +8,58 @@
 #  education3:
 #  education4:
 
-- name: Tianhong Xia
+- name: Xiangyang Gu
   photo: rock.jpg
-  info: Working on RM and Computational imaging
+  info: Working on RM
   email:
   number_educ: 0
   education1:
    
-- name: Haonan Xu
+- name: Yangchen Zeng
   photo: rock.jpg
   info: Working on RM
   email:
   number_educ: 0
   education1:
 
-- name: Sicheng Xi
-  photo: rock.jpg
-  info: Working on Working on RM and Computational imaging
-  email:
-  number_educ: 0
-  education1:
-
-- name: Junyu Sun
+- name:  Jiutai Di
   photo: rock.jpg
   info: Working on RM
   email:
   number_educ: 0
   education1:
 
-- name: Zhenghao Xiao
+- name: Ye Huang
   photo: rock.jpg
-  info: Working on 3D reconsturction
+  info: Working on RM
+  email:
+  number_educ: 0
+  education1:
+
+- name: Liexuan Lu
+  photo: rock.jpg
+  info: Working on RM
   email: 
   number_educ: 0
   education1: 
 
-- name: Tingting Yang
+- name: Xiaoyang Li
   photo: rock.jpg
-  info: Working on UAV formation control
+  info: Working on RM
   email: 
   number_educ: 0
   education1: 
 
-- name: Yun Liu
+  - name: Mingjie Liang
   photo: rock.jpg
-  info: Working on RM and UAV formation control
+  info: Working on RM
+  email: 
+  number_educ: 0
+  education1: 
+
+ - name: Yuqian Wei
+  photo: rock.jpg
+  info: Working on RM
   email: 
   number_educ: 0
   education1: 
